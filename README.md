@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JMedeiros-dev
+- 👋 Hi, I’m John
 - 👀 I’m interested in fitness, good books, and **clean code**
 - 🌱 I’m currently learning Redux
 - 📫 How to reach me johnmilesmedeiros@gmail.com
